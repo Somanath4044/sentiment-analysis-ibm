@@ -1,1 +1,2 @@
 # sentiment-analysis-ibm
+A "sentimental analysis" in marketing typically refers to sentiment analysis, which is the process of determining the emotional tone or sentiment expressed in written or spoken language. In the context of marketing, sentiment analysis can be used to gauge how customers, prospects, or the general public feel about a product, brand, campaign, or any other marketing-related topic.
